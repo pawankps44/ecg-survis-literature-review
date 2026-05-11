@@ -1,7 +1,4 @@
 const userDefinedTagCategories = {
-	"type": {
-        "description": "type of the paper"
-    },
     "group": {
         "description": "literature category"
     },
