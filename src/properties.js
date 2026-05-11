@@ -54,7 +54,7 @@ var editable = true;
  * @type {{html: string, id: string}}
  */
 var paper = {
-    html: 'literature collection: 10 papers on uncertainty-aware deep learning for ECG-based arrhythmia detection" target="_blank">SurVis</a></b>',
+    html: 'literature collection: 10 papers on uncertainty-aware deep learning for ECG-based arrhythmia detection',
     id: 'Beck2016Visual'
 };
 

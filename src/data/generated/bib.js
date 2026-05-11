@@ -6,7 +6,7 @@
         "keywords": "group:uncertainty, task:arrhythmia-detection, task:ecg-classification, model:multi-view-learning, data:ecg, clinical:reliability",
         "pages": "1--6",
         "title": "Uncertainty-Aware Multi-view Arrhythmia Classification from ECG",
-        "type": "inproceedings",
+        "type": "inproceedings survey",
         "year": "2024"
     },
     "barandas2024evaluation": {
@@ -16,7 +16,7 @@
         "keywords": "group:uncertainty, task:uncertainty-quantification, task:multi-label-classification, data:ecg, clinical:calibration",
         "pages": "101978",
         "title": "Evaluation of uncertainty quantification methods in multi-label classification: A case study with automatic diagnosis of electrocardiogram",
-        "type": "article",
+        "type": "article conference",
         "volume": "101",
         "year": "2024"
     },
@@ -26,7 +26,7 @@
         "journal": "Artificial Intelligence Review",
         "keywords": "group:survey, task:ecg-diagnosis, model:deep-learning, data:ecg, clinical:cardiovascular-disease",
         "title": "Deep learning for ECG-based cardiovascular disease diagnosis: a systematic review and meta-analysis",
-        "type": "article",
+        "type": "article journal",
         "year": "2026"
     },
     "charls2025uncertainty": {
@@ -35,7 +35,7 @@
         "doi": "10.1109/EMBC58623.2025.11254147",
         "keywords": "group:robustness, task:domain-adaptation, task:ecg-classification, data:ecg, clinical:generalization",
         "title": "Uncertainty-Aware Domain Adaptation for ECG Classification",
-        "type": "inproceedings",
+        "type": "inproceedings survey",
         "year": "2025"
     },
     "chatterjee2026toward": {
@@ -45,7 +45,7 @@
         "keywords": "group:robustness, task:arrhythmia-detection, model:self-supervised-learning, model:vision-transformer, data:ecg",
         "pages": "11793",
         "title": "Toward robust automated cardiovascular arrhythmia detection using self-supervised learning and 1-dimensional vision transformers",
-        "type": "article",
+        "type": "article conference",
         "volume": "16",
         "year": "2026"
     },
@@ -56,7 +56,7 @@
         "keywords": "group:robustness, task:arrhythmia-detection, task:ecg-classification, model:transformer, data:ecg",
         "pages": "1600855",
         "title": "Transformer-based ECG classification for early detection of cardiac arrhythmias",
-        "type": "article",
+        "type": "article conference",
         "volume": "12",
         "year": "2025"
     },
@@ -68,7 +68,7 @@
         "number": "5",
         "pages": "794",
         "title": "A Reliable Deep Learning Model for ECG Interpretation: Mitigating Overconfidence and Direct Uncertainty Quantification",
-        "type": "article",
+        "type": "article conference",
         "volume": "17",
         "year": "2025"
     },
@@ -79,7 +79,7 @@
         "keywords": "group:trustworthy-ai, task:lead-misplacement-detection, task:ecg-reliability, data:ecg, clinical:safety",
         "pages": "154204",
         "title": "Toward self-validating ECG Systems: A personalized, uncertainty-aware approach for detecting and estimating lead misplacement",
-        "type": "article",
+        "type": "article conference",
         "volume": "95",
         "year": "2026"
     },
@@ -90,7 +90,7 @@
         "keywords": "group:uncertainty, task:atrial-fibrillation-detection, task:uncertainty-quantification, data:holter-ecg, clinical:calibration",
         "pages": "109032",
         "title": "Uncertainty estimation of deep learning models for atrial fibrillation detection from Holter recordings: A benchmark study",
-        "type": "article",
+        "type": "article conference",
         "volume": "113",
         "year": "2026"
     },
@@ -101,7 +101,7 @@
         "keywords": "group:trustworthy-ai, task:arrhythmia-detection, task:ecg-classification, model:explainable-ai, clinical:trust",
         "pages": "39496",
         "title": "An explainable deep learning framework for trustworthy arrhythmia detection from ECG signals",
-        "type": "article",
+        "type": "article conference",
         "volume": "15",
         "year": "2025"
     }
